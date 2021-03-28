@@ -1,0 +1,14 @@
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.csprojAssemblyReference.cache
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.Form1.resources
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.cache
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\bin\Debug\Ferramentas.exe.manifest
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\bin\Debug\Ferramentas.application
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.exe.manifest
+C:\Users\luiz.marquezani\source\repos\Ferramentas\Ferramentas\obj\Debug\Ferramentas.application
