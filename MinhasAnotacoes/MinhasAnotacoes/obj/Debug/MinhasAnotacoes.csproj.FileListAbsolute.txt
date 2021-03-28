@@ -1,0 +1,9 @@
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\bin\Debug\MinhasAnotacoes.exe.config
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\bin\Debug\MinhasAnotacoes.exe
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\bin\Debug\MinhasAnotacoes.pdb
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.Properties.Resources.resources
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.csproj.GenerateResource.cache
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.csproj.CoreCompileInputs.cache
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.exe
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.pdb
+C:\Users\luiz.marquezani\source\repos\MinhasAnotacoes\MinhasAnotacoes\obj\Debug\MinhasAnotacoes.Form1.resources
